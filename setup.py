@@ -32,7 +32,5 @@ setup(
         'numpy ~= 1.18',
         'scipy ~= 1.6',
         'xarray ~= 0.18',
-        'dask ~= 2021.06',
-        'dask[distributed] ~= 2021.06'
     ],
 )
